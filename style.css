@@ -68,10 +68,36 @@ button {
     border-width: 20px;
     border-radius: 20px;
     border-style: solid;
-
-
 }
 
 .recipe-item img {
     width: 100%;
+}
+
+.services {
+    padding-left: 4%;
+    background-color: rgb(204, 243, 243);
+    margin-bottom: 70px;
+}
+
+.social-media {
+    width: 90%;
+
+    display: flex;
+    margin-bottom: 70px;
+    background-color: white);
+    padding-left: 1opx;
+
+}
+
+.followers {
+    margin-left: 29%;
+    margin-right: 20%;
+
+
+}
+
+footer {
+    padding-left: 20%;
+    margin-bottom: 50px;
 }
